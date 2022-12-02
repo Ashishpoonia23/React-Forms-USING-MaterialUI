@@ -1,0 +1,17 @@
+.tabh{
+    background-color:#009;
+    color:#fff;
+}
+.tabh1{
+    background-color:#eee;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 30px;
+    overflow: scroll;
+    max-height: 20px;
+    overflow-y: scroll;
+    
+}
